@@ -13,10 +13,10 @@
 </p>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/franciscocj/">
+    <a href="https://www.linkedin.com/in/franciscocj/" style="text-decoration: none; border: none; outline: none;">
         <img src="https://img.shields.io/badge/LinkedIn-Francisco_Cortés-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="https://www.linkedin.com/in/franciscocj/">
     </a>
-    <a href="https://youtube.com/@tumodev">
+    <a href="https://youtube.com/@tumodev" style="text-decoration: none; border: none; outline: none;">
         <img src="https://img.shields.io/badge/YouTube-TumoDEV-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010">
     </a>
 </div>
@@ -29,14 +29,32 @@
 <div align="center">
     <a href="https://github.com/TumoDev" style="text-decoration: none; border: none; outline: none;">
         <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    </a>
+    <a href="https://github.com/TumoDev" style="text-decoration: none; border: none; outline: none;">
         <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+    </a>
+    <a href="https://github.com/TumoDev" style="text-decoration: none; border: none; outline: none;">
         <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+    </a>
+    <a href="https://github.com/TumoDev" style="text-decoration: none; border: none; outline: none;">
         <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+    </a>
+    <a href="https://github.com/TumoDev" style="text-decoration: none; border: none; outline: none;">
         <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+    </a>
+    <a href="https://github.com/TumoDev" style="text-decoration: none; border: none; outline: none;">
         <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+    </a>
+    <a href="https://github.com/TumoDev" style="text-decoration: none; border: none; outline: none;">
         <img src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+    </a>
+    <a href="https://github.com/TumoDev" style="text-decoration: none; border: none; outline: none;">
         <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://github.com/TumoDev" style="text-decoration: none; border: none; outline: none;">
         <img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
+    </a>
+    <a href="https://github.com/TumoDev" style="text-decoration: none; border: none; outline: none;">
         <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
     </a>
 </div>
