@@ -1,20 +1,16 @@
-[Leer en Español](./README_ES.md)
+[Read in English](./README.md)
 
-
-
-<h1 align="center"> Hi, I'm TumoDev 💻</h1>
+<h1 align="center"> Hola, Soy TumoDev 💻</h1>
 
 <div align="center">
-    <img src="https://media1.tenor.com/m/3Qb1nM5v680AAAAd/cat-cats.gif" alt="Cat GIF"/>
+    <img src="https://media1.tenor.com/m/3Qb1nM5v680AAAAd/cat-cats.gif" alt="GIF de Gato"/>
 </div>
 
-<h2 align="center">👨‍💻 Developer | Content Creator | Tech Explorer</h2>
+<h2 align="center">👨‍💻 Desarrollador | Creador de Contenido | Explorador Tecnológico</h2>
 
 <p align="center">
-    I am passionate about coding and innovation. Here you will find my experiments, projects, and collaborations. Welcome to my digital world!
+    Me apasiona la programación y la innovación. Aquí encontrarás mis experimentos, proyectos y colaboraciones. ¡Bienvenido a mi mundo digital!
 </p>
-
-
 
 <div align="center">
     <a href="https://www.linkedin.com/in/franciscocj/">
@@ -27,17 +23,16 @@
 
 ---
 
-
-### 🛠️ Skills and Tools:
+### 🛠️ Habilidades y Herramientas:
 
 <div align="center">
     <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+    <img src="https://img.shields.io/badge/-HTML-naranja?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
     <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
     <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
     <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-    <img src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/-Java-rojo?style=for-the-badge&logo=java&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     <img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
     <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
@@ -45,23 +40,23 @@
 
 ---
 
-### 🌱 I am Currently Learning:
+### 🌱 Actualmente Estoy Aprendiendo:
 
 <div align="center">
-    <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" alt="React"/>
+    <img src="https://img.shields.io/badge/-React-negro?style=for-the-badge&logo=react" alt="React"/>
 </div>
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Estadísticas de GitHub
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tumodev&show_icons=true&theme=vue" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=tumodev&show_icons=true&theme=vue" alt="Estadísticas de GitHub"/>
 </div>
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Proyectos Destacados
 
 <div align="center">
     <a href="https://github.com/TumoDev/PaperGraph">
