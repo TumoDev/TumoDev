@@ -31,7 +31,7 @@
 ### 🛠️ Skills and Tools:
 
 <div align="center">
-    <a href=="https://github.com/TumoDev">
+    <a href="https://github.com/TumoDev">
         <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
         <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
@@ -50,7 +50,7 @@
 ### 🌱 I am Currently Learning:
 
 <div align="center">
-    <a href=="https://github.com/TumoDev">
+    <a href="https://github.com/TumoDev">
         <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" alt="React"/>
     </a>
 </div>
